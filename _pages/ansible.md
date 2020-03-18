@@ -23,11 +23,11 @@ Learning Materials for Ansible Automation.
 <!-- /TOC -->
 
 #### Ansible Playbook References
-- [Ansible Examples](https://github.com/ginigangadharan/ansible-examples) 
+- [Ansible Examples](https://github.com/TeamC/ansible-examples) 
 (*Forked from https://github.com/ansible/ansible-examples*)
-- [Ansible for DevOps](https://github.com/ginigangadharan/ansible-for-devops) 
+- [Ansible for DevOps](https://github.com/TeamC/ansible-for-devops) 
 (*Forked from https://github.com/geerlingguy/ansible-for-devops*)
-- [Ansible NXOS Samples](https://github.com/ginigangadharan/Ansible-NXOS) (Network Automation)
+- [Ansible NXOS Samples](https://github.com/TeamC/Ansible-NXOS) (Network Automation)
 
 #### Ansible Blog/Articles to Follow
 - [MyDailyTutorials](http://www.mydailytutorials.com/category/tutorials/ansible/)

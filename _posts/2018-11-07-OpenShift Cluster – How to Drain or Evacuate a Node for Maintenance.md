@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenShift Cluster – How to Drain or Evacuate a Node for Maintenance
-author: gini
+author: TeamC
 subtitle: OpenShift Notes for Cluster Admins
 tags: openshift, Kubernetes, docker
 image: "assets/images/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.jpg"
